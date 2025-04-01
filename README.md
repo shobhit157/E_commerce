@@ -1,6 +1,7 @@
 # E-Commerce Application
 A scalable e-commerce backend built with Spring Boot and microservices architecture.
 This project is a backend system for an e-commerce platform, built using Spring Boot with a microservices architecture. It includes User Management, Product Search, Order Management, and Authentication & Authorization. It leverages Spring Security, JWT, and OAuth (Okta) for secure access.
+
 #Features:
 - Microservices architecture with Eureka service discovery.
 - Secure authentication using JWT & Okta OAuth.
